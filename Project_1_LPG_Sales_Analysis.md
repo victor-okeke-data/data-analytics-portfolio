@@ -10,6 +10,7 @@ As a Data Analyst for a regional Liquefied Petroleum Gas (LPG) distribution comp
 * **Exploratory Data Analysis (EDA):** Built PivotTables and PivotCharts to rapidly aggregate and visualize key performance indicators.
 
 ## 📈 Key Business Insights
+![LPG Sales Dashboar](LPG_Dashboard.png)
 1. **Top Revenue Location:** Obio-Akpor generated the highest revenue at ₦499,500, outperforming Port Harcourt and Eleme.
 2. **Customer Segmentation:** Commercial clients overwhelmingly drove business revenue compared to Residential clients, accounting for the vast majority of sales value.
 3. **Inventory Movement:** The 50kg cylinder was the highest-moving product by volume, with 23 total units sold. 
