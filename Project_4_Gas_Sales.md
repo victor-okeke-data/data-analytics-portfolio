@@ -9,4 +9,4 @@ To transition from spreadsheet-based reporting to a dynamic business intelligenc
 *   **Data Visualization:** Designed cross-filtering visuals, including an aggregated KPI card, a date slicer, and categorical bar charts to isolate specific revenue streams (PMS, AGO, LPG).
 
 ## 📊 Operations Dashboard
-![Gas_Sales_Dashboard](image.png)
+![Gas_Sales_Dashboard](Gas_Sales_Dashboard.png)
